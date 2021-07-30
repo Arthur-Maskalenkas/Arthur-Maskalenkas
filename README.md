@@ -3,6 +3,7 @@
 
 <h3> &nbsp;Sobre mim </h3>
 
+- 🤓 &nbsp; Perfil antigo: https://github.com/maskalenkas
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na FMU.
 - 🌱 &nbsp; Aprendendo mais sobre **React e todo o ecossistema em volta dele**.
