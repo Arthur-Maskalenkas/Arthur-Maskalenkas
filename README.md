@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/Arthur-maskalenkas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rArthur-maskalenkas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-maskalenkas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-maskalenkas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
