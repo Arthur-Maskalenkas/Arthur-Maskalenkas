@@ -1,6 +1,6 @@
 ## Eu sou o Arthur Maskalenkas!
 
-<img width="100%" alt="Compila" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/quando_compila.gif">
+<img width="200px" alt="Compila" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/quando_compila.gif">
 
 <div>
   <a href="https://github.com/Arthur-maskalenkas">
