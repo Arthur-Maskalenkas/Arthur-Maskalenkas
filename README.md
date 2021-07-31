@@ -24,7 +24,8 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/arthur-maskalenkas-915431214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/arthur-maskalenkas-915431214/" target="_blank"><img  height="30" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.maskalenkas.com.br/" target="_blank"><img  height="30" width="80" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Arthur-maskalenkas/Arthur-maskalenkas/blob/output/github-contribution-grid-snake.svg)
  
