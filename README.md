@@ -1,8 +1,7 @@
 ## Eu sou o Arthur Maskalenkas!
 
-🌎 Eu sou Desenvolvedor Front-End. Atualmente estudo todo o ecossistema React e testes.
+🌎 Eu sou um desenvolvedor Front-end. Atualmente atuo na stack Jamstack.
 <br/>
-💼 Estou a procura da minha primeira oportunidade como Desenvolvedor.
 
 
 <div>
