@@ -1,6 +1,6 @@
 ## Eu sou o Arthur Maskalenkas!
 
-🌎 Eu sou um desenvolvedor Front-end. Atualmente atuo na stack Jamstack.
+🌎 Eu sou um desenvolvedor Front-end.
 <br/>
 
 
