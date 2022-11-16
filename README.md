@@ -14,4 +14,3 @@
     <img width= "50%" src="http://github-readme-streak-stats.herokuapp.com?user=arthur-maskalenkas&theme=gotham&hide_border=true" width="450"/>
 </p> 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arthur-maskalenkas&theme=gotham)
-[![system schema](doc/systemDiagram.jpg)](https://activity-graph.herokuapp.com/graph?username=arthur-maskalenkas&theme=gotham)
